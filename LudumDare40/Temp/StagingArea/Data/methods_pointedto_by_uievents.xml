@@ -1,0 +1,7 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="ReloadGame">
+			<method name="LoadingScreen"/>
+		</type>
+	</assembly>
+</linker>

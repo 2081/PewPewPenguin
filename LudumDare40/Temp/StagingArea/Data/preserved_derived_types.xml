@@ -1,0 +1,98 @@
+<linker>
+<assembly fullname="Assembly-CSharp-firstpass">
+<type fullname="LeanTester" preserve="all"/>
+<type fullname="LeanTween" preserve="all"/>
+</assembly>
+<assembly fullname="Assembly-CSharp">
+<type fullname="AudioLoader" preserve="all"/>
+<type fullname="AudioManager" preserve="all"/>
+<type fullname="AudioPlaybackConfig" preserve="all"/>
+<type fullname="PlayCallback" preserve="all"/>
+<type fullname="BulletController" preserve="all"/>
+<type fullname="CameraResizer" preserve="all"/>
+<type fullname="DontDestroyOnLoad" preserve="all"/>
+<type fullname="EnemyController" preserve="all"/>
+<type fullname="EnemyDeathParticleManager" preserve="all"/>
+<type fullname="ExplosionManager" preserve="all"/>
+<type fullname="FaceCursor" preserve="all"/>
+<type fullname="FacePlayer" preserve="all"/>
+<type fullname="GameOverController" preserve="all"/>
+<type fullname="GunController" preserve="all"/>
+<type fullname="HeartDisplayer" preserve="all"/>
+<type fullname="LoadingScreen" preserve="all"/>
+<type fullname="PlayerController" preserve="all"/>
+<type fullname="Preferences" preserve="all"/>
+<type fullname="ReloadGame" preserve="all"/>
+<type fullname="RewardController" preserve="all"/>
+<type fullname="ScoreManager" preserve="all"/>
+<type fullname="SpawnController" preserve="all"/>
+</assembly>
+<assembly fullname="UnityEngine.UI">
+<type fullname="UnityEngine.EventSystems.EventSystem" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.UIBehaviour" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.BaseInput" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.BaseInputModule" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.PointerInputModule" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.TouchInputModule" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.BaseRaycaster" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.Physics2DRaycaster" preserve="all"/>
+<type fullname="UnityEngine.EventSystems.PhysicsRaycaster" preserve="all"/>
+<type fullname="UnityEngine.UI.Button" preserve="all"/>
+<type fullname="UnityEngine.UI.Dropdown" preserve="all"/>
+<type fullname="UnityEngine.UI.Dropdown/DropdownItem" preserve="all"/>
+<type fullname="UnityEngine.UI.Graphic" preserve="all"/>
+<type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all"/>
+<type fullname="UnityEngine.UI.Image" preserve="all"/>
+<type fullname="UnityEngine.UI.InputField" preserve="all"/>
+<type fullname="UnityEngine.UI.Mask" preserve="all"/>
+<type fullname="UnityEngine.UI.MaskableGraphic" preserve="all"/>
+<type fullname="UnityEngine.UI.RawImage" preserve="all"/>
+<type fullname="UnityEngine.UI.RectMask2D" preserve="all"/>
+<type fullname="UnityEngine.UI.Scrollbar" preserve="all"/>
+<type fullname="UnityEngine.UI.ScrollRect" preserve="all"/>
+<type fullname="UnityEngine.UI.Selectable" preserve="all"/>
+<type fullname="UnityEngine.UI.Slider" preserve="all"/>
+<type fullname="UnityEngine.UI.Text" preserve="all"/>
+<type fullname="UnityEngine.UI.Toggle" preserve="all"/>
+<type fullname="UnityEngine.UI.ToggleGroup" preserve="all"/>
+<type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all"/>
+<type fullname="UnityEngine.UI.CanvasScaler" preserve="all"/>
+<type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all"/>
+<type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all"/>
+<type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all"/>
+<type fullname="UnityEngine.UI.HorizontalOrVerticalLayoutGroup" preserve="all"/>
+<type fullname="UnityEngine.UI.LayoutElement" preserve="all"/>
+<type fullname="UnityEngine.UI.LayoutGroup" preserve="all"/>
+<type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all"/>
+<type fullname="UnityEngine.UI.BaseMeshEffect" preserve="all"/>
+<type fullname="UnityEngine.UI.Outline" preserve="all"/>
+<type fullname="UnityEngine.UI.PositionAsUV1" preserve="all"/>
+<type fullname="UnityEngine.UI.Shadow" preserve="all"/>
+</assembly>
+<assembly fullname="TextMeshPro-1.0.55.2017.1.0b12">
+<type fullname="TMPro.InlineGraphic" preserve="all"/>
+<type fullname="TMPro.InlineGraphicManager" preserve="all"/>
+<type fullname="TMPro.TextContainer" preserve="all"/>
+<type fullname="TMPro.TextMeshPro" preserve="all"/>
+<type fullname="TMPro.TextMeshProUGUI" preserve="all"/>
+<type fullname="TMPro.TMP_Asset" preserve="all"/>
+<type fullname="TMPro.TMP_ColorGradient" preserve="all"/>
+<type fullname="TMPro.TMP_Dropdown" preserve="all"/>
+<type fullname="TMPro.TMP_Dropdown/DropdownItem" preserve="all"/>
+<type fullname="TMPro.TMP_FontAsset" preserve="all"/>
+<type fullname="TMPro.TMP_InputField" preserve="all"/>
+<type fullname="TMPro.TMP_InputValidator" preserve="all"/>
+<type fullname="TMPro.TMP_PhoneNumberValidator" preserve="all"/>
+<type fullname="TMPro.TMP_ScrollbarEventHandler" preserve="all"/>
+<type fullname="TMPro.TMP_SelectionCaret" preserve="all"/>
+<type fullname="TMPro.TMP_Settings" preserve="all"/>
+<type fullname="TMPro.TMP_SpriteAnimator" preserve="all"/>
+<type fullname="TMPro.TMP_SpriteAsset" preserve="all"/>
+<type fullname="TMPro.TMP_StyleSheet" preserve="all"/>
+<type fullname="TMPro.TMP_SubMesh" preserve="all"/>
+<type fullname="TMPro.TMP_SubMeshUI" preserve="all"/>
+<type fullname="TMPro.TMP_Text" preserve="all"/>
+</assembly>
+</linker>
